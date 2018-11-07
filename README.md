@@ -1,5 +1,5 @@
-# [LeetCode](https://leetcode.com/) ![Language](https://img.shields.io/badge/language-Java-orange.svg)
-
+# [LeetCode](https://leetcode.com/) ![Language](https://img.shields.io/badge/language-Java-orange.svg) ![Travis](https://travis-ci.org/nbabra/LeetCode-Practice.svg?branch=master)
+ 
 LeetCode practice questions. 
 
 |  #  | Title           |  Solution       | Difficulty    | 
