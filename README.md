@@ -1,4 +1,4 @@
-# [LeetCode](https://leetcode.com/) ![Language](https://img.shields.io/badge/language-Java-orange.svg) ![Travis](https://travis-ci.org/nbabra/LeetCode-Practice.svg?branch=master)
+# [LeetCode](https://leetcode.com/) ![Language](https://img.shields.io/badge/language-Java-orange.svg) 
  
 LeetCode practice questions. 
 
