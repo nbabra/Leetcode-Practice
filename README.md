@@ -7,8 +7,7 @@ LeetCode practice questions.
 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Java](./Java/TwoSum.java) |  Easy  |
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Java](./Java/PalindromeNum.java) | Easy |
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Java](./Java/RomanToInt.java) | Easy |
-14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Java](./Java/LongestCommonPrefix.java) | 
-Easy |
+14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Java](./Java/LongestCommonPrefix.java) | Easy |
 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Java](./Java/RemoveNNode.java) | Medium |
 20 | [Valid Parantheses](https://leetcode.com/problems/valid-parentheses) | [Java](./Java/ValidParantheses.java) | Easy |
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Java](./Java/MergeSortedLists.java) | Easy |
