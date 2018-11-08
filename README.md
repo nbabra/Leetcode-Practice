@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/) ![Language](https://img.shields.io/badge/language-Java-orange.svg) 
  
-LeetCode practice questions. 
+LeetCode practice question solutions.
 
 |  #  | Title           |  Solution       | Difficulty    | 
 |-----|---------------- | --------------- | ------------- |
