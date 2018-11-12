@@ -1,11 +1,15 @@
 # [LeetCode](https://leetcode.com/) ![Language](https://img.shields.io/badge/language-Java-orange.svg) 
  
-LeetCode practice questions. 
+LeetCode practice question solutions.
 
 |  #  | Title           |  Solution       | Difficulty    | 
 |-----|---------------- | --------------- | ------------- |
 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Java](./Java/TwoSum.java) |  Easy  |
+<<<<<<< HEAD
 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Java](./Java/MedianArrays.java) | Hard |
+=======
+2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](./Java/AddTwoNumbers.java) | Medium | 
+>>>>>>> 4ae2acf351a5d609e55b2e725281725fb1150096
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Java](./Java/PalindromeNum.java) | Easy |
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Java](./Java/RomanToInt.java) | Easy |
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Java](./Java/LongestCommonPrefix.java) | Easy |
