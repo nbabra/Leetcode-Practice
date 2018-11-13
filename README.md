@@ -15,7 +15,7 @@ LeetCode practice questions.
 26 | [Remove Duplicated from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Java](./Java/RemoveDuplicates.java) | Easy |
 27 | [Remove Element](https://leetcode.com/problems/remove-element) | [Java](./Java/RemoveElements.java) | Easy |
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Java](./Java/strStr.java) | Easy |
-32 | [Longest Valid Parantheses](https://leetcode.com/problems/longest-valid-parentheses) | [Java][./Java/LongestParantheses.java) | Hard |
+32 | [Longest Valid Parantheses](https://leetcode.com/problems/longest-valid-parentheses) | [Java](./Java/LongestParantheses.java) | Hard |
 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Java](./Java/SquareRoot.java) | Easy |
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Java](./Java/ClimbingStairs.java) | Easy |
 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | [Java](./Java/RemoveDupListII.java) | Medium |
