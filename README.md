@@ -17,6 +17,7 @@ LeetCode practice questions.
 27 | [Remove Element](https://leetcode.com/problems/remove-element) | [Java](./Java/RemoveElements.java) | Easy |
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Java](./Java/strStr.java) | Easy |
 32 | [Longest Valid Parantheses](https://leetcode.com/problems/longest-valid-parentheses) | [Java](./Java/LongestParantheses.java) | Hard |
+38 | [Count and Say](https://leetcode.com/problems/count-and-say) | [Java](./Java/CountandSay.java) | Easy |
 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [Java](./Java/MissingPositive.java) | Hard | 
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Java](./Java/MaxSubarray.java) | Easy |
 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Java](./Java/PlusOne.java) | Easy |
