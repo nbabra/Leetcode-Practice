@@ -28,6 +28,7 @@ LeetCode practice questions.
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](./Java/MergeSortedArrays.java) | Easy |
 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Java](./Java/SymmetricTree.java) | Easy |
 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [Java](./Java/PascalsTriangle.java) | Easy |
+125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](./Java/ValidPalindrome.java) | Easy |
 136 | [Single Number](https://leetcode.com/problems/single-number) | [Java](./Java/SingleNumber.java) | Easy |
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Java](./Java/LLCycleI.java) | Easy |
 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [Java](./Java/LLCycleII.java) | Medium |
