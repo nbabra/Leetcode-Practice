@@ -33,6 +33,7 @@ LeetCode practice questions.
 155 | [Min Stack](https://leetcode.com/problems/min-stack) | [Java](./Java/MinStack.java) | Easy |
 160 | [Insection of Two Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Java](./Java/IntersectionLists.java) | Easy |
 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Java](./Java/TwoSumII.java) | Easy | 
+169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Jave](./Java/MajorityElem.java) | Easy |
 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Java](./Java/RemoveListElement.java) | Easy |
 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Java](./Java/DeleteNodeList.java) | Easy |
 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | [Java](./Java/OddEvenList.java) | Medium |
