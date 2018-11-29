@@ -32,4 +32,5 @@ LeetCode practice questions.
 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Java](./Java/RemoveListElement.java) | Easy |
 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Java](./Java/DeleteNodeList.java) | Easy |
 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | [Java](./Java/OddEvenList.java) | Medium |
+401 | [Binary Watch](https://leetcode.com/problems/binary-watch) | [Java](./Java/BinaryWatch.java) | Easy |
 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | [Java](./Java/TwoSumIV.java) | Easy |
