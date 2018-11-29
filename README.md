@@ -18,6 +18,7 @@ LeetCode practice questions.
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Java](./Java/strStr.java) | Easy |
 32 | [Longest Valid Parantheses](https://leetcode.com/problems/longest-valid-parentheses) | [Java](./Java/LongestParantheses.java) | Hard |
 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [Java](./Java/MissingPositive.java) | Hard | 
+66 | [Plus One](https://leetcode.com/problems/plus-one) | [Java](./Java/PlusOne.java) | Easy |
 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Java](./Java/SquareRoot.java) | Easy |
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Java](./Java/ClimbingStairs.java) | Easy |
 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | [Java](./Java/RemoveDupListII.java) | Medium |
