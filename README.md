@@ -23,6 +23,7 @@ LeetCode practice questions.
 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Java](./Java/PlusOne.java) | Easy |
 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Java](./Java/SquareRoot.java) | Easy |
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Java](./Java/ClimbingStairs.java) | Easy |
+75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Java](./Java/SortColors.java) | Medium |
 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | [Java](./Java/RemoveDupListII.java) | Medium |
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Java](./Java/RemoveDupListI.java) | Easy |
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](./Java/MergeSortedArrays.java) | Easy |
