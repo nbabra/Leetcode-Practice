@@ -39,6 +39,7 @@ LeetCode practice questions.
 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Jave](./Java/MajorityElem.java) | Easy |
 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [C](./C/ReverseBits.c) | Easy |
 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Java](./Java/RemoveListElement.java) | Easy |
+206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Java](./Java/ReverseLL.java) | Easy |
 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Java](./Java/DeleteNodeList.java) | Easy |
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Java](./Java/ProdArr.java) | Medium | 
 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | [Java](./Java/OddEvenList.java) | Medium |
