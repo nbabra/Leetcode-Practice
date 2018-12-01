@@ -43,6 +43,7 @@ LeetCode practice questions.
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Java](./Java/ReverseLL.java) | Easy |
 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [Java](./Java/DeleteNodeList.java) | Easy |
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Java](./Java/ProdArr.java) | Medium | 
+242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Java](./Java/ValidAnagram.java) | Easy |
 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [Java](./Java/SerializeBT.java) | Hard |
 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | [Java](./Java/OddEvenList.java) | Medium |
 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](./Java/ReverseString.java) | Easy | 
