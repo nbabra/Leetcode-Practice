@@ -38,6 +38,7 @@ LeetCode practice questions.
 160 | [Insection of Two Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Java](./Java/IntersectionLists.java) | Easy |
 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Java](./Java/TwoSumII.java) | Easy | 
 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Jave](./Java/MajorityElem.java) | Easy |
+172 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes) | [Java](./Java/NumZeros.java) | Easy |
 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [C](./C/ReverseBits.c) | Easy |
 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Java](./Java/RemoveListElement.java) | Easy |
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Java](./Java/ReverseLL.java) | Easy |
