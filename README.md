@@ -1,4 +1,4 @@
-# [LeetCode](https://leetcode.com/) ![Language](https://img.shields.io/badge/language-Java-orange-C-yellow.svg) 
+# [LeetCode](https://leetcode.com/) ![Language](https://img.shields.io/badge/language-Java-orange.svg) 
  
 LeetCode practice questions. 
 
