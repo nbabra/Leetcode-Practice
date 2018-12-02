@@ -40,6 +40,7 @@ LeetCode practice questions.
 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Jave](./Java/MajorityElem.java) | Easy |
 172 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes) | [Java](./Java/NumZeros.java) | Easy |
 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | [C](./C/ReverseBits.c) | Easy |
+198 | [House Robber](https://leetcode.com/problems/house-robber) | [Java](./Java/HouseRobber.java) | Easy |
 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [Java](./Java/RemoveListElement.java) | Easy |
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Java](./Java/ReverseLL.java) | Easy |
 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Java](./Java/ContainsDup.java) | Easy |
