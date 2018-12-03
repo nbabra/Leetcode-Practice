@@ -21,6 +21,7 @@ LeetCode practice questions.
 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [Java](./Java/MissingPositive.java) | Hard | 
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Java](./Java/MaxSubarray.java) | Easy |
 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Java](./Java/PlusOne.java) | Easy |
+67 | [Add Binary](https://leetcode.com/problems/add-binary) | [Java](./Java/AddBinary.java) | Easy |
 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Java](./Java/SquareRoot.java) | Easy |
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Java](./Java/ClimbingStairs.java) | Easy |
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | [Java](./Java/SortColors.java) | Medium |
