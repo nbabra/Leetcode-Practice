@@ -59,3 +59,4 @@ LeetCode practice questions.
 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [Java](./Java/MergeBT.java) | Easy |
 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | [Java](./Java/TwoSumIV.java) | Easy |
 720 | [Longest Word in the Dictionary](https://leetcode.com/problems/longest-word-in-dictionary) | [Java](./Java/LongestWord.java) | Easy |
+771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Java](./Java/JewelsStones.java) | Easy|
