@@ -30,6 +30,7 @@ LeetCode practice questions.
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](./Java/MergeSortedArrays.java) | Easy |
 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java](./Java/BTInorder.java) | Medium |
 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Java](./Java/SymmetricTree.java) | Easy |
+108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [Java](./Java/ArrToBST.java) | Easy |
 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | [Java](./Java/PascalsTriangle.java) | Easy |
 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java](./Java/ValidPalindrome.java) | Easy |
 136 | [Single Number](https://leetcode.com/problems/single-number) | [Java](./Java/SingleNumber.java) | Easy |
