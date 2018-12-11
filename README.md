@@ -61,5 +61,6 @@ LeetCode practice questions.
 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | [Java](./Java/Lowercase.java) | Easy |
 720 | [Longest Word in the Dictionary](https://leetcode.com/problems/longest-word-in-dictionary) | [Java](./Java/LongestWord.java) | Easy |
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Java](./Java/JewelsStones.java) | Easy |
+804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [Java](./Java/UniqueMorse.java) | Easy |
 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | [Java](./Java/MaxSkyline.java) | Medium |
 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | [Java](./Java/RangeSumBST.java) | Medium |
