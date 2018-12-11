@@ -58,6 +58,7 @@ LeetCode practice questions.
 401 | [Binary Watch](https://leetcode.com/problems/binary-watch) | [Java](./Java/BinaryWatch.java) | Easy |
 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [Java](./Java/MergeBT.java) | Easy |
 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | [Java](./Java/TwoSumIV.java) | Easy |
+709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | [Java](./Java/Lowercase.java) | Easy |
 720 | [Longest Word in the Dictionary](https://leetcode.com/problems/longest-word-in-dictionary) | [Java](./Java/LongestWord.java) | Easy |
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Java](./Java/JewelsStones.java) | Easy |
 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | [Java](./Java/MaxSkyline.java) | Medium |
