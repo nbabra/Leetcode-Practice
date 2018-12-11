@@ -60,4 +60,5 @@ LeetCode practice questions.
 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | [Java](./Java/TwoSumIV.java) | Easy |
 720 | [Longest Word in the Dictionary](https://leetcode.com/problems/longest-word-in-dictionary) | [Java](./Java/LongestWord.java) | Easy |
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Java](./Java/JewelsStones.java) | Easy |
+807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline) | [Java](./Java/MaxSkyline.java) | Medium |
 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | [Java](./Java/RangeSumBST.java) | Medium |
