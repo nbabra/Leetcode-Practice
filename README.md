@@ -19,6 +19,7 @@ LeetCode practice questions.
 32 | [Longest Valid Parantheses](https://leetcode.com/problems/longest-valid-parentheses) | [Java](./Java/LongestParantheses.java) | Hard |
 38 | [Count and Say](https://leetcode.com/problems/count-and-say) | [Java](./Java/CountandSay.java) | Easy |
 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [Java](./Java/MissingPositive.java) | Hard | 
+42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Java](./Java/TrappedWater.java) | Hard | 
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Java](./Java/MaxSubarray.java) | Easy |
 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Java](./Java/PlusOne.java) | Easy |
 67 | [Add Binary](https://leetcode.com/problems/add-binary) | [Java](./Java/AddBinary.java) | Easy |
