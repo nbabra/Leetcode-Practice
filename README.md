@@ -57,6 +57,7 @@ LeetCode practice questions.
 344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [Java](./Java/ReverseString.java) | Easy | 
 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array) | [Java](./Java/ShuffleArr.java) | Medium |
 401 | [Binary Watch](https://leetcode.com/problems/binary-watch) | [Java](./Java/BinaryWatch.java) | Easy |
+442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array) | [Java](./Java/FindDup.java) | Medium |
 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [Java](./Java/MergeBT.java) | Easy |
 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | [Java](./Java/TwoSumIV.java) | Easy |
 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | [Java](./Java/Lowercase.java) | Easy |
